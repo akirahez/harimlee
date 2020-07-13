@@ -1,0 +1,27 @@
+
+header {
+    display: inline-flexbox;
+    text-align: center;
+}
+h1 {
+    font-size: 45.555px; 
+    margin-bottom: 0;
+}
+h4 {
+    color: red;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 15.777px;
+}
+div {
+    text-align: center;
+    margin-top: 1em;
+    color: grey;
+    font-size: small;
+}
+span {
+ color: black;
+}
+img {
+    max-width: 30%; height: auto;
+}
